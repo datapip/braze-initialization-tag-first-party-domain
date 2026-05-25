@@ -1,0 +1,5 @@
+homepage: "https://datapip.de"
+documentation: "https://github.com/datapip/braze-initialization-tag-first-party-domain/blob/master/README.md"
+versions:
+  - sha: "master"
+    changeNotes: "Initial release of the First-Party Domain Braze Initialization Tag."
